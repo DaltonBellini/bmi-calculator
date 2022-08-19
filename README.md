@@ -1,6 +1,6 @@
 <h1>Calculando IMC dos pacientes com Funções</h1>
 <p> 
-  <h2>Tarefa</h2><br>
+  <p> # Tarefa # </p><br>
 Dada uma lista de pacientes, descubra o IMC de cada paciente e imprima<br>
   "Paciente X possui o IMC de: Y"<br>
   Onde X é o nome do paciente e Y é o IMC desse paciente<br>
