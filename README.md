@@ -10,6 +10,6 @@ Dada uma lista de pacientes, descubra o IMC de cada paciente e imprima<br>
   </p
 <br><hr>
 <p>Nesse projeto aprendi sobre:
-[] Funções (named), funções anônimas e arrow functions</ p
+[] Funções (name), funções anônimas e arrow functions</ p
 <br>
   <p>Obs: Os dados dos pacientes já estão incluso dentro do Código</p
