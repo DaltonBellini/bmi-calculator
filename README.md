@@ -4,6 +4,6 @@
   Onde X é o nome do paciente e Y é o IMC desse paciente<br>
   Crie uma função para fazer o cálculo de IMC<br>
   </p
-
+<br>
 <p>Nesse projeto aprendi sobre:
 [] Funções (named), funções anônimas e arrow functions</ p
